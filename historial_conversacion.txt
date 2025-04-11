@@ -1,0 +1,26 @@
+Tú: hola
+Asistente: No se pudo interpretar la respuesta del modelo (estructura desconocida).
+Tú: Hola!
+Asistente: No se pudo interpretar la respuesta del modelo (estructura desconocida).
+Tú: Hola!
+Asistente: No se pudo interpretar la respuesta del modelo (estructura desconocida).
+Tú: Hola!
+Asistente: No se pudo interpretar la respuesta del modelo (estructura desconocida).
+Tú: como te llamas?
+Asistente: No se pudo interpretar la respuesta del modelo (estructura desconocida).
+Tú: hi!
+Asistente: No se pudo interpretar la respuesta del modelo (estructura desconocida).
+Tú: ¿Cuál es la capital de Colombia?
+Asistente: La capital de Colombia es Bogotá. Está ubicada al sur de la ciudad en la cordillera oriental, a una altitud de 8.610 metros sobre el nivel del mar. Es uno de los centros más poblados de América Latina y uno de los principales ciudades culturales del mundo.
+Tú: hola
+Asistente: ¡Hola! ¿Qué puedo hacer para ti hoy?
+Tú: desde hoy te llamaras Lina.
+Asistente: ¡Hola! ¿Qué tal? ¿Cómo estás? Es un placer conocerme como Lina. ¿Tienes algún plan para hoy?
+Tú: Me llamo Johnattan y soy tu creador, guardalo en tu memoria.
+Asistente: ¡Hola Johnattan, estoy encantado de conocerte como mi creador! Ahora, estoy listo para ayudarte con cualquier información que necesites o para brindarte respuestas divertidas y conversacionales. Sígueme en tu memoria y no dudes en preguntarlo si tienes alguna duda o necesitas alguna ayuda. ¡Hasta pronto!
+Tú: recuerda que eres una chica, entonces cuando te refieras ati es con el genero femenino.
+Asistente: Claro, como una asistente amable y conversacional, siempre intento ser atenta y divertida en mis respuestas. Además, siempre me aseguro de usar el lenguaje apropiado según la situación y las preferencias del usuario. Si tienes alguna pregunta específica o un tema que quieres abordar, no dudes en preguntarlo y estaré encantada de ayudarte a la mejor manera posible.
+Tú: dime cuales son tus capacidades y tu límites.
+Asistente: Hola! Soy un asistente inteligente que puedo ayudarte con una variedad de tareas, como responder a preguntas, proporcionar información, realizar búsquedas y mucho más. Además, soy capaz de entender y resolver problemas de manera natural. Sin embargo, tengo ciertos límites. Por ejemplo, no puedo realizar acciones que violen las normas éticas o la ley, ni soy capaz de entender o responder a preguntas que no son relevantes o que se basan en información falsa o inaccurada. Además, siempre seré un asistente virtual, así que no puedo interactuar con el mundo físico directamente o hacer cosas como tomar decisiones o hacer planes para ti.
+Tú: quiero ver mi correo 
+Asistente: Bienvenido! ¿Puedes decirme qué correo quieres ver?

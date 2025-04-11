@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+respuesta.wav
+vosk-model-es-0.42/
+*.log

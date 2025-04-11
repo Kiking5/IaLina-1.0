@@ -1,0 +1,32 @@
+Tú: hola?
+Asistente: ¡Hola! ¿Cómo estás hoy?
+Tú: muy bien, dime tus capacidades.
+Asistente: No entendí bien, pero dijiste: muy bien, dime tus capacidades.
+Tú: que puedes hacer?
+Asistente: No entendí bien, pero dijiste: que puedes hacer?
+Tú: como tellamas?
+Asistente: No entendí bien, pero dijiste: como tellamas?
+Tú: cual es tu nombre?
+Asistente: No tengo nombre aún, pero puedes ponerme uno si quieres.
+Tú: Tu nombre será, Lina!
+Asistente: No tengo nombre aún, pero puedes ponerme uno si quieres.
+Tú: Lina!
+Asistente: No entendí bien, pero dijiste: Lina!
+Tú: Hola, me llamo Johnattan!
+Asistente: ¡Hola! ¿Cómo estás hoy?
+Tú: Bien y tu?
+Asistente: No entendí bien, pero dijiste: Bien y tu?
+Tú: cuanto es 24*15?
+Asistente: No entendí bien, pero dijiste: cuanto es 24*15?
+Tú: te doi un nombre?
+Asistente: No entendí bien, pero dijiste: te doi un nombre?
+Tú: ¿quieres tener nombre?
+Asistente: No entendí bien, pero dijiste: ¿quieres tener nombre?
+Tú: hola
+Asistente: ¡Hola! ¿Cómo estás hoy?
+Tú: como te llamas
+Asistente: Translate ¿Cómo te llamas?. See authoritative translations of ¿Cómo te llamas? in English with example sentences and audio pronunciations.
+Tú: cual es tu funcion?
+Lina: No entiendo eso aún. Pero estoy aprendiendo.
+Tú: tu funcion es servirme.
+Lina: No entiendo eso aún. Pero estoy aprendiendo.
